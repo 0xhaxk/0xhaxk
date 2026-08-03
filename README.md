@@ -1,1 +1,1 @@
-polymath
+polymath [trader & hacker]
