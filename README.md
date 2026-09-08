@@ -3,3 +3,9 @@ ___
 [hacker]
 - bug bounty
 - pentesting
+
+___
+[tools]
+- wireshark
+- nmap
+- OSINT
