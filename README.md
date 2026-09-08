@@ -1,11 +1,9 @@
 polymath [trader & hacker]
 ___
-[hacker]
+[hacking]
 - bug bounty
 - pentesting
 
 ___
 [tools]
-- wireshark
-- nmap
-- OSINT
+- wireshark, nmap, burp, OSINT
