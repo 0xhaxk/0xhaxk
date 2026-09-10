@@ -3,7 +3,8 @@ ___
 [hacking]
 - bug bounty
 - pentesting
+- security engineer
 
 ___
 [tools]
-- wireshark, nmap, burp, OSINT
+- wireshark, nmap, burp, OSINT, 
